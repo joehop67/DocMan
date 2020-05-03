@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<info>
+	<id>wjdocman</id>
+	<name>DocMan</name>
+	<description>permit and compliance management in the cloud</description>
+	<licence>MIT</licence>
+	<author>Joe Hopkins</author>
+	<version>0.0.1</version>
+	<dependencies>
+		<owncloud min-version="10"/>
+	</dependencies>
+</info>
